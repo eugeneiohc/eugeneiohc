@@ -11,6 +11,7 @@
 
 - 🔭 I’m currently working on my Personal Website 🙋‍♂️ and a Discord Bot 🤖.
   - React
+  - Typescript
 
 
 - 👀 I'm looking to collaborate to create a unique idea and create a business 📊.
