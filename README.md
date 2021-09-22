@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋. I'm Eugene Choi, an aspiring programming guru eager to eat up any kind of knowledge!
 
+- 👨‍💻 I'm currently working as a Software Engineer at [https://pyyne.com/]Pyyne_Digital
 <!--
 **eugeneiohc/eugeneiohc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
