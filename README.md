@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on my Personal Website 🙋‍♂️ and a Discord Bot 🤖.
 
 
-- 👯 I’m networking with people outside my industry and techincal domain.
+- 👯 I’m networking with people outside my industry and techincal domain (currently finance).
 
 
 - 👀 I'm looking to collaborate to create a unique idea and create a business 📊.
