@@ -10,6 +10,7 @@
 
 
 - 🔭 I’m currently working on my Personal Website 🙋‍♂️ and a Discord Bot 🤖.
+  - React
 
 
 - 👀 I'm looking to collaborate to create a unique idea and create a business 📊.
