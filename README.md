@@ -27,4 +27,4 @@
 - 🙋‍♂️ Ask me about personal finance! I love talking about all things finance: investing, credit cards, retirement.
 
 
-- 📫 How to reach me [Work Email](eugene.choi@pyyne.com) [Personal](eugeneiohc@hotmail.com)
+- 📫 How to reach me [Work Email](eugene.choi@pyyne.com) | [Personal](eugeneiohc@hotmail.com)
