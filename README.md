@@ -1,10 +1,7 @@
 ### Hi there 👋. I'm Eugene Choi, an aspiring programming guru eager to eat up any kind of knowledge!
 
-- 👨‍💻 I'm currently working as a Software Engineering Consultant [Pyyne Digital](https://pyyne.com/) working with...
-  - Typescript
-  - Github Actions
-  - Jest
-  - AWS
+- 👨‍💻 I'm currently working as a Date Engineering Consultant [Pyyne Digital](https://pyyne.com/) working with...
+  - AWS Products to build OLAP databases
 
 - 🤔 I'm interested in implementing serverless compute architectures and want to learn more!
 
