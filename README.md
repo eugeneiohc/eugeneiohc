@@ -1,7 +1,6 @@
 ### Hi there 👋. I'm Eugene Choi, an aspiring programming guru eager to eat up any kind of knowledge!
 
-- 👨‍💻 I'm currently working as a Date Engineering Consultant [Pyyne Digital](https://pyyne.com/) working with...
-  - AWS Products to build OLAP databases
+- 👨‍💻 I'm currently working as an AWS Softare Engineer at 23andMe
 
 - 🤔 I'm interested in implementing serverless compute architectures and want to learn more!
 
