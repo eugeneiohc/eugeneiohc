@@ -2,13 +2,7 @@
 
 - 👨‍💻 I'm currently working as an AWS Softare Engineer at 23andMe
 
-- 🤔 I'm interested in implementing serverless compute architectures and want to learn more!
-
-- 🔭 I’m currently working on my Personal Website 🙋‍♂️ and a Discord Bot 🤖.
-  - React
-  - Typescript
-
-- 👀 I'm looking to collaborate to create a unique idea and create a business 📊.
+- 🤔 I'm interested in implementing serverless compute architectures and mostly in the data engineering field.
 
 - 📖 I'm currently reading [*A Random Walk Down Wall Street: The Time-Tested Strategy*](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338).
 
@@ -16,4 +10,4 @@
 
 - 😎 Other interests: [Breakdancing](https://www.instagram.com/bboytreechoi/) 🤸‍♀️ [Video Games](https://www.twitch.tv/set43a) 🕹
 
-- 📫 How to reach me [Work Email](eugene.choi@pyyne.com) | [Personal](eugeneiohc@hotmail.com)
+- 📫 How to reach me [Work Email](eugenec@23andme.com) | [Personal](eugeneiohc@hotmail.com)
