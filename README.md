@@ -8,6 +8,4 @@
 
 - 🙋‍♂️ Ask me about personal finance! I love talking about all things investing, credit cards, retirement.
 
-- 😎 Other interests: [Breakdancing](https://www.instagram.com/bboytreechoi/) 🤸‍♀️ [Video Games](https://www.twitch.tv/set43a) 🕹
-
 - 📫 How to reach me [Work Email](eugenec@23andme.com) | [Personal](eugeneiohc@hotmail.com)
