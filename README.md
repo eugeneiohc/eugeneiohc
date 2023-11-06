@@ -4,8 +4,6 @@
 
 - 🤔 I'm interested in implementing serverless compute architectures and mostly in the data engineering field.
 
-- 📖 I'm currently reading [*A Random Walk Down Wall Street: The Time-Tested Strategy*](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338).
-
 - 🙋‍♂️ Ask me about personal finance! I love talking about all things investing, credit cards, retirement.
 
-- 📫 How to reach me [Work Email](eugenec@23andme.com) | [Personal](eugeneiohc@hotmail.com)
+- 📫 How to reach me [Work Email](eugene@qloo.com) | [Personal](eugeneiohc@hotmail.com)
